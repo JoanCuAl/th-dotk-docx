@@ -1,0 +1,460 @@
+<w:body xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid wp14">
+<w:p w14:paraId="3327E56C" w14:textId="2353FDE9" w:rsidR="00AE490F" w:rsidRPr="00435DB9" w:rsidRDefault="008131C8" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:spacing w:after="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:sz w:val="88"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+		<w:drawing>
+					<wp:inline distT="0" distB="0" distL="0" distR="0" wp14:anchorId="36DD5237" wp14:editId="5C220499">
+						<wp:extent cx="2857500" cy="1295400"/>
+						<wp:effectExtent l="0" t="0" r="0" b="0"/>
+						<wp:docPr id="3" name="Picture 3" descr="https://15993-presscdn-0-55-pagely.netdna-ssl.com/wp-content/uploads/2016/04/isda-logo-300x136.jpg"/>
+						<wp:cNvGraphicFramePr>
+							<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+						</wp:cNvGraphicFramePr>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+								<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+									<pic:nvPicPr>
+										<pic:cNvPr id="3" name="Picture 3" descr="https://15993-presscdn-0-55-pagely.netdna-ssl.com/wp-content/uploads/2016/04/isda-logo-300x136.jpg"/>
+										<pic:cNvPicPr>
+											<a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+										</pic:cNvPicPr>
+									</pic:nvPicPr>
+									<pic:blipFill>
+										<a:blip r:embed="rId_ISDA_L_1">
+											<a:extLst>
+												<a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+													<a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+												</a:ext>
+											</a:extLst>
+										</a:blip>
+										<!--<a:blip r:embed="rIdTest1" cstate="print"/>-->
+										<a:srcRect/>
+										<a:stretch>
+											<a:fillRect/>
+										</a:stretch>
+									</pic:blipFill>
+									<pic:spPr bwMode="auto">
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="2857500" cy="1295400"/>
+										</a:xfrm>
+										<a:prstGeom prst="rect">
+											<a:avLst/>
+										</a:prstGeom>
+										<a:noFill/>
+										<a:ln>
+											<a:noFill/>
+										</a:ln>
+									</pic:spPr>
+								</pic:pic>
+							</a:graphicData>
+						</a:graphic>
+					</wp:inline>
+				</w:drawing>
+	</w:r>
+		</w:p>
+		<w:bookmarkStart w:id="0" w:name="_Hlk73003578"/>
+		<w:bookmarkStart w:id="1" w:name="_Toc15359647"/>
+		<w:bookmarkStart w:id="2" w:name="_Toc15377177"/>
+		<w:p w14:paraId="1C9928FE" w14:textId="484E1651" w:rsidR="00AE490F" w:rsidRPr="00435DB9" w:rsidRDefault="00AE490F" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:spacing w:before="2400"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00435DB9">
+				<w:rPr>
+					<w:noProof/>
+					<w:lang w:val="en-US" w:eastAsia="en-GB"/>
+				</w:rPr>
+				<mc:AlternateContent>
+					<mc:Choice Requires="wps">
+						<w:drawing>
+							<wp:anchor distT="4294967294" distB="4294967294" distL="114300" distR="114300" simplePos="0" relativeHeight="251658240" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="4DA99FE4" wp14:editId="7F67C052">
+								<wp:simplePos x="0" y="0"/>
+								<wp:positionH relativeFrom="column">
+									<wp:posOffset>-3811</wp:posOffset>
+								</wp:positionH>
+								<wp:positionV relativeFrom="paragraph">
+									<wp:posOffset>1097915</wp:posOffset>
+								</wp:positionV>
+								<wp:extent cx="6315075" cy="9525"/>
+								<wp:effectExtent l="19050" t="19050" r="28575" b="28575"/>
+								<wp:wrapNone/>
+								<wp:docPr id="2" name="Line 2"/>
+								<wp:cNvGraphicFramePr>
+									<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+								</wp:cNvGraphicFramePr>
+								<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+									<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+										<wps:wsp>
+											<wps:cNvCnPr>
+												<a:cxnSpLocks noChangeShapeType="1"/>
+											</wps:cNvCnPr>
+											<wps:spPr bwMode="auto">
+												<a:xfrm flipV="1">
+													<a:off x="0" y="0"/>
+													<a:ext cx="6315075" cy="9525"/>
+												</a:xfrm>
+												<a:prstGeom prst="line">
+													<a:avLst/>
+												</a:prstGeom>
+												<a:noFill/>
+												<a:ln w="28575">
+													<a:solidFill>
+														<a:srgbClr val="000000"/>
+													</a:solidFill>
+													<a:round/>
+													<a:headEnd/>
+													<a:tailEnd/>
+												</a:ln>
+												<a:extLst>
+													<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+														<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+															<a:noFill/>
+														</a14:hiddenFill>
+													</a:ext>
+												</a:extLst>
+											</wps:spPr>
+											<wps:bodyPr/>
+										</wps:wsp>
+									</a:graphicData>
+								</a:graphic>
+								<wp14:sizeRelH relativeFrom="page">
+									<wp14:pctWidth>0</wp14:pctWidth>
+								</wp14:sizeRelH>
+								<wp14:sizeRelV relativeFrom="page">
+									<wp14:pctHeight>0</wp14:pctHeight>
+								</wp14:sizeRelV>
+							</wp:anchor>
+						</w:drawing>
+					</mc:Choice>
+					<mc:Fallback>
+						<w:pict>
+							<v:line w14:anchorId="3644543D" id="Line 2" o:spid="_x0000_s1026" style="position:absolute;flip:y;z-index:251658240;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:-6e-5mm;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:-6e-5mm;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" from="-.3pt,86.45pt" to="496.95pt,87.2pt" o:gfxdata="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&#xA;" strokeweight="2.25pt"/>
+						</w:pict>
+					</mc:Fallback>
+				</mc:AlternateContent>
+			</w:r>
+			<w:r w:rsidRPr="00435DB9">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="88"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>202</w:t>
+			</w:r>
+			<w:r w:rsidR="001A6E45">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="88"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>2</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00435DB9">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="88"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve"> ISDA Securities Financing Transactions Definitions</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00435DB9">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve"> </w:t>
+			</w:r>
+		</w:p>
+		<w:bookmarkEnd w:id="0"/>
+		<w:p w14:paraId="3AC65A10" w14:textId="77777777" w:rsidR="00AE490F" w:rsidRPr="00435DB9" w:rsidRDefault="00AE490F" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="00435DB9">
+				<w:rPr>
+					<w:noProof/>
+					<w:lang w:val="en-US" w:eastAsia="en-GB"/>
+				</w:rPr>
+				<mc:AlternateContent>
+					<mc:Choice Requires="wps">
+						<w:drawing>
+							<wp:anchor distT="4294967294" distB="4294967294" distL="114300" distR="114300" simplePos="0" relativeHeight="251658241" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="4A4A0977" wp14:editId="155A07DA">
+								<wp:simplePos x="0" y="0"/>
+								<wp:positionH relativeFrom="margin">
+									<wp:align>left</wp:align>
+								</wp:positionH>
+								<wp:positionV relativeFrom="paragraph">
+									<wp:posOffset>114936</wp:posOffset>
+								</wp:positionV>
+								<wp:extent cx="6353175" cy="0"/>
+								<wp:effectExtent l="0" t="19050" r="28575" b="19050"/>
+								<wp:wrapNone/>
+								<wp:docPr id="1" name="Line 3"/>
+								<wp:cNvGraphicFramePr>
+									<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+								</wp:cNvGraphicFramePr>
+								<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+									<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+										<wps:wsp>
+											<wps:cNvCnPr>
+												<a:cxnSpLocks noChangeShapeType="1"/>
+											</wps:cNvCnPr>
+											<wps:spPr bwMode="auto">
+												<a:xfrm>
+													<a:off x="0" y="0"/>
+													<a:ext cx="6353175" cy="0"/>
+												</a:xfrm>
+												<a:prstGeom prst="line">
+													<a:avLst/>
+												</a:prstGeom>
+												<a:noFill/>
+												<a:ln w="28575">
+													<a:solidFill>
+														<a:srgbClr val="000000"/>
+													</a:solidFill>
+													<a:round/>
+													<a:headEnd/>
+													<a:tailEnd/>
+												</a:ln>
+												<a:extLst>
+													<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+														<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+															<a:noFill/>
+														</a14:hiddenFill>
+													</a:ext>
+												</a:extLst>
+											</wps:spPr>
+											<wps:bodyPr/>
+										</wps:wsp>
+									</a:graphicData>
+								</a:graphic>
+								<wp14:sizeRelH relativeFrom="page">
+									<wp14:pctWidth>0</wp14:pctWidth>
+								</wp14:sizeRelH>
+								<wp14:sizeRelV relativeFrom="page">
+									<wp14:pctHeight>0</wp14:pctHeight>
+								</wp14:sizeRelV>
+							</wp:anchor>
+						</w:drawing>
+					</mc:Choice>
+					<mc:Fallback>
+						<w:pict>
+							<v:line w14:anchorId="1E41182D" id="Line 3" o:spid="_x0000_s1026" style="position:absolute;z-index:251658241;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:-6e-5mm;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:-6e-5mm;mso-position-horizontal:left;mso-position-horizontal-relative:margin;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" from="0,9.05pt" to="500.25pt,9.05pt" o:gfxdata="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&#xA;" strokeweight="2.25pt">
+								<w10:wrap anchorx="margin"/>
+							</v:line>
+						</w:pict>
+					</mc:Fallback>
+				</mc:AlternateContent>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="6679DDB8" w14:textId="77777777" w:rsidR="00AE490F" w:rsidRDefault="00AE490F" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="0192F8AD" w14:textId="77777777" w:rsidR="00AE490F" w:rsidRDefault="00AE490F" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="7E5AB2ED" w14:textId="77777777" w:rsidR="00AE490F" w:rsidRPr="004C50E7" w:rsidRDefault="00AE490F" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="004C50E7">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Version 1.0</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="788F2322" w14:textId="0F5B2871" w:rsidR="00AE490F" w:rsidRDefault="004C50E7" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r w:rsidRPr="004C50E7">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t xml:space="preserve">Publication </w:t>
+			</w:r>
+			<w:r w:rsidR="00AE490F" w:rsidRPr="004C50E7">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>Date</w:t>
+			</w:r>
+			<w:r w:rsidRPr="004C50E7">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>:</w:t>
+			</w:r>
+			<w:r w:rsidR="005D587C">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t  xml:space="preserve"> February 28, 2022</w:t>
+			</w:r>
+		</w:p>
+		<w:p w14:paraId="00C53560" w14:textId="77777777" w:rsidR="007871A9" w:rsidRDefault="007871A9" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="34FAAE90" w14:textId="77777777" w:rsidR="008131C8" w:rsidRDefault="008131C8" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="21"/>
+					<w:szCs w:val="21"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="0C48EAD9" w14:textId="77777777" w:rsidR="008131C8" w:rsidRDefault="008131C8" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="21"/>
+					<w:szCs w:val="21"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="5F7A9DAB" w14:textId="77777777" w:rsidR="008131C8" w:rsidRDefault="008131C8" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="21"/>
+					<w:szCs w:val="21"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="4FD36A49" w14:textId="77777777" w:rsidR="008131C8" w:rsidRDefault="008131C8" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="28"/>
+					<w:szCs w:val="28"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w14:paraId="27E2FD03" w14:textId="17AA5A93" w:rsidR="008131C8" w:rsidRPr="008131C8" w:rsidRDefault="008131C8" w:rsidP="00CD73DD">
+			<w:pPr>
+				<w:pStyle w:val="Body"/>
+				<w:ind w:left="0"/>
+				<w:jc w:val="left"/>
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="28"/>
+					<w:szCs w:val="28"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:sectPr w:rsidR="008131C8" w:rsidRPr="008131C8" w:rsidSect="00660962">
+					<w:headerReference w:type="even" r:id="rId10"/>
+					<w:headerReference w:type="default" r:id="rId11"/>
+					<w:footerReference w:type="even" r:id="rId12"/>
+					<w:footerReference w:type="default" r:id="rId13"/>
+					<w:headerReference w:type="first" r:id="rId14"/>
+					<w:footerReference w:type="first" r:id="rId15"/>
+					<w:type w:val="continuous"/>
+					<w:pgSz w:w="11907" w:h="16840" w:code="9"/>
+					<w:pgMar w:top="1412" w:right="1367" w:bottom="1985" w:left="1281" w:header="1049" w:footer="873" w:gutter="0"/>
+					<w:cols w:space="720"/>
+					<w:titlePg/>
+				</w:sectPr>
+			</w:pPr>
+			<w:r w:rsidRPr="008131C8">
+				<w:rPr>
+					<w:b/>
+					<w:bCs/>
+					<w:sz w:val="28"/>
+					<w:szCs w:val="28"/>
+					<w:lang w:val="en-US"/>
+				</w:rPr>
+				<w:t>International Swaps and Derivatives Association, Inc.</w:t>
+			</w:r>
+		</w:p>
+</w:body>

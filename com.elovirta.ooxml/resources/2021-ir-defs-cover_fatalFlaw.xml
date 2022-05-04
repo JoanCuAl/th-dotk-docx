@@ -1,0 +1,245 @@
+<w:body xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" 
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing">
+<w:p>
+	<w:pPr>
+		<w:jc w:val="both"/>
+		<w:ind w:left="425"/>
+	</w:pPr>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="18"/>
+			<w:b w:val="true"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">FATAL FLAW DRAFT </w:t>
+		<w:br/>
+	</w:r>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="18"/>
+			<w:b w:val="true"/>
+			<w:color w:val="FF0000"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">Attorney Work Product – Privileged and Confidential: this draft is prepared for discussion purposes only among the participants of the ISDA Interest Rate Derivatives Definitions working groups. The content of this draft is not to be relied upon as legal advice and this draft is not to be circulated externally outside of the ISDA Interest Rate Derivatives Definitions working groups.</w:t>
+		<w:br/>
+	</w:r>
+</w:p>
+<w:p>
+	<w:pPr>
+		<w:jc w:val="both"/>
+		<w:ind w:left="425"/>
+	</w:pPr>
+	<w:r>
+		<w:br/>
+		<w:rPr>
+			<w:sz w:val="88"/>
+			<w:color w:val="3366CC"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">ISDA</w:t>
+	</w:r>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="20"/>
+			<w:color w:val="3366CC"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">&#174;</w:t>
+		<w:br/>
+		<w:br/>
+		<w:br/>
+		<w:br/>
+		<w:br/>
+		<w:br/>
+		<w:br/>
+		<w:br/>
+	</w:r>
+<w:r>
+		<mc:AlternateContent>
+			<mc:Choice Requires="wps">
+				<w:drawing>
+					<wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="50FF2BA3" wp14:editId="779041E8">
+						<wp:simplePos x="0" y="0"/>
+						<wp:positionH relativeFrom="column">
+							<wp:posOffset>56499</wp:posOffset>
+						</wp:positionH>
+						<wp:positionV relativeFrom="paragraph">
+							<wp:posOffset>2193644</wp:posOffset>
+						</wp:positionV>
+						<wp:extent cx="5879805" cy="0"/>
+						<wp:effectExtent l="0" t="19050" r="33020" b="19050"/>
+						<wp:wrapNone/>
+						<wp:docPr id="2" name="Straight Connector 2"/>
+						<wp:cNvGraphicFramePr/>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+								<wps:wsp>
+									<wps:cNvCnPr/>
+									<wps:spPr>
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="5879805" cy="0"/>
+										</a:xfrm>
+										<a:prstGeom prst="line">
+											<a:avLst/>
+										</a:prstGeom>
+										<a:ln w="28575"/>
+									</wps:spPr>
+									<wps:style>
+										<a:lnRef idx="1">
+											<a:schemeClr val="dk1"/>
+										</a:lnRef>
+										<a:fillRef idx="0">
+											<a:schemeClr val="dk1"/>
+										</a:fillRef>
+										<a:effectRef idx="0">
+											<a:schemeClr val="dk1"/>
+										</a:effectRef>
+										<a:fontRef idx="minor">
+											<a:schemeClr val="tx1"/>
+										</a:fontRef>
+									</wps:style>
+									<wps:bodyPr/>
+								</wps:wsp>
+							</a:graphicData>
+						</a:graphic>
+					</wp:anchor>
+				</w:drawing>
+			</mc:Choice>
+			<mc:Fallback>
+				<w:pict>
+					<v:line>
+						<v:stroke joinstyle="miter"/>
+					</v:line>
+				</w:pict>
+			</mc:Fallback>
+		</mc:AlternateContent>
+	</w:r>
+	<w:pPr>
+		<w:jc w:val="left"/>
+	</w:pPr>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="82"/>
+			<w:b w:val="true"/>
+			<w:color w:val="000000"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">2021 ISDA</w:t>
+		<w:br/>
+		<w:br/>
+	</w:r>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="82"/>
+			<w:b w:val="true"/>
+			<w:color w:val="000000"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">Interest Rate Derivatives</w:t>
+		<w:br/>
+		<w:br/>
+	</w:r>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="82"/>
+			<w:b w:val="true"/>
+			<w:color w:val="000000"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">Definitions</w:t>
+		<w:br/>
+	</w:r>
+	<w:r>
+		<mc:AlternateContent>
+			<mc:Choice Requires="wps">
+				<w:drawing>
+					<wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1" wp14:anchorId="50FF2BA3" wp14:editId="779041E8">
+						<wp:simplePos x="0" y="0"/>
+						<wp:positionH relativeFrom="column">
+							<wp:posOffset>6499</wp:posOffset>
+						</wp:positionH>
+						<wp:positionV relativeFrom="paragraph">
+							<wp:posOffset>5903644</wp:posOffset>
+						</wp:positionV>
+						<wp:extent cx="5879805" cy="0"/>
+						<wp:effectExtent l="0" t="19050" r="33020" b="19050"/>
+						<wp:wrapNone/>
+						<wp:docPr id="2" name="Straight Connector 2"/>
+						<wp:cNvGraphicFramePr/>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+								<wps:wsp>
+									<wps:cNvCnPr/>
+									<wps:spPr>
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="5879805" cy="0"/>
+										</a:xfrm>
+										<a:prstGeom prst="line">
+											<a:avLst/>
+										</a:prstGeom>
+										<a:ln w="28575"/>
+									</wps:spPr>
+									<wps:style>
+										<a:lnRef idx="1">
+											<a:schemeClr val="dk1"/>
+										</a:lnRef>
+										<a:fillRef idx="0">
+											<a:schemeClr val="dk1"/>
+										</a:fillRef>
+										<a:effectRef idx="0">
+											<a:schemeClr val="dk1"/>
+										</a:effectRef>
+										<a:fontRef idx="minor">
+											<a:schemeClr val="tx1"/>
+										</a:fontRef>
+									</wps:style>
+									<wps:bodyPr/>
+								</wps:wsp>
+							</a:graphicData>
+						</a:graphic>
+					</wp:anchor>
+				</w:drawing>
+			</mc:Choice>
+			<mc:Fallback>
+				<w:pict>
+					<v:line>
+						<v:stroke joinstyle="miter"/>
+					</v:line>
+				</w:pict>
+			</mc:Fallback>
+		</mc:AlternateContent>
+	</w:r>
+</w:p>
+<w:p>
+	<w:pPr>
+		<w:jc w:val="both"/>
+	</w:pPr>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="20"/>
+			<w:color w:val="000000"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:br/>
+		<w:br/>
+		<w:t xml:space="preserve">Version [1.0]</w:t>
+		<w:br/>
+	</w:r>
+	<w:r>
+		<w:rPr>
+			<w:sz w:val="20"/>
+			<w:color w:val="000000"/>
+			<w:rFonts w:ascii="Times New Roman" w:hAnsi="Times New Roman"/>
+		</w:rPr>
+		<w:t xml:space="preserve">Date [    ]</w:t>
+	</w:r>
+	<w:r>
+		<w:br w:type="page" />
+	</w:r>
+</w:p>
+</w:body>

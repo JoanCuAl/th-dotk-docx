@@ -1,0 +1,49 @@
+<body xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid wp14">
+	<docx.bold.footnotes>true</docx.bold.footnotes>
+	<docx.indexOfTerms>false</docx.indexOfTerms>
+	<docx.tableColWidth.source>dita</docx.tableColWidth.source>
+	<docx.tableIdent.type>dxa</docx.tableIdent.type>
+	<docx.tableIdent.value>-714</docx.tableIdent.value>
+	<docx.tableSpacing.after>0</docx.tableSpacing.after>
+	<docx.tableSpacing.before>0</docx.tableSpacing.before>
+	<docx.tableTbody.cantSplit>false</docx.tableTbody.cantSplit>
+	<docx.tableThead.cantSplit>true</docx.tableThead.cantSplit>
+	<docx.tableTheadVerticalAligment>top</docx.tableTheadVerticalAligment>
+	<docx.tableWidth.type>dxa</docx.tableWidth.type>
+	<docx.tableWidth.value>22842</docx.tableWidth.value>
+	<docx.toc>false</docx.toc>
+	<docx.toc.mode>heading</docx.toc.mode>
+	
+	<docx.landscapePageSize.width>11905</docx.landscapePageSize.width>
+	<docx.landscapePageSize.height>16837</docx.landscapePageSize.height>
+	<docx.landscapePageMargin.top>765</docx.landscapePageMargin.top>
+	<docx.landscapePageMargin.bottom>879</docx.landscapePageMargin.bottom>
+	<docx.landscapePageMargin.right>1587</docx.landscapePageMargin.right>
+	<docx.landscapePageMargin.left>1587</docx.landscapePageMargin.left>
+	<docx.landscapePageMargin.header>1049</docx.landscapePageMargin.header>
+	<docx.landscapePageMargin.footer>880</docx.landscapePageMargin.footer>
+	<docx.landscapeHeaderId>rId8</docx.landscapeHeaderId>
+	<docx.landscapeHeaderType>default</docx.landscapeHeaderType>
+	<docx.landscapeFooterId>rId8</docx.landscapeFooterId>
+	<docx.landscapeFooterType>default</docx.landscapeFooterType>
+	
+	<docx.portraitPageSize.width>11900</docx.portraitPageSize.width>
+	<docx.portraitPageSize.height>16840</docx.portraitPageSize.height>
+	<docx.portraitPageMargin.top>1417</docx.portraitPageMargin.top>
+	<docx.portraitPageMargin.bottom>1984</docx.portraitPageMargin.bottom>
+	<docx.portraitPageMargin.right>1105</docx.portraitPageMargin.right>
+	<docx.portraitPageMargin.left>1275</docx.portraitPageMargin.left>
+	<docx.portraitPageMargin.header>765</docx.portraitPageMargin.header>
+	<docx.portraitPageMargin.footer>879</docx.portraitPageMargin.footer>
+	<docx.portraitHeaderId>rId8</docx.portraitHeaderId>
+	<docx.portraitHeaderType>default</docx.portraitHeaderType>
+	<docx.portraitFooterId>rId8</docx.portraitFooterId>
+	<docx.portraitFooterType>default</docx.portraitFooterType>
+	
+	<docx.pageNumerationType>decimal</docx.pageNumerationType>
+	<docx.sectionType>continous</docx.sectionType>
+	
+	<!-- new variables -->
+	<docx.listNum.autoIdent>true</docx.listNum.autoIdent>
+	
+</body>
